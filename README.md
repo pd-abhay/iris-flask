@@ -1,2 +1,3 @@
 # iris-flask
-Used Flask to run classification algorithm on Iris Dataset
+Used Logistic Regression as a Classification Algorithm on Iris Dataset.
+Used Flask to run classification algorithm on a web page
